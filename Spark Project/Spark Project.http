@@ -1,0 +1,6 @@
+@Spark_Project_HostAddress = http://localhost:5252
+
+GET {{Spark_Project_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
